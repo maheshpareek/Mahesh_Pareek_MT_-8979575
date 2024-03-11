@@ -1,0 +1,30 @@
+
+/* Class = "UIButton"; configuration.title = "FInd My CIty"; ObjectID = "F3g-kK-k4O"; */
+"F3g-kK-k4O.configuration.title" = "FInd My CIty";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "F3g-kK-k4O"; */
+"F3g-kK-k4O.normalTitle" = "Button";
+
+/* Class = "UITabBarItem"; title = "Calcuator"; ObjectID = "M7s-Yk-PGm"; */
+"M7s-Yk-PGm.title" = "Calcuator";
+
+/* Class = "UITabBarItem"; title = "My Workj"; ObjectID = "QOS-xz-QDe"; */
+"QOS-xz-QDe.title" = "My Workj";
+
+/* Class = "UIButton"; configuration.title = "Function Scene"; ObjectID = "Qp7-Aj-nfK"; */
+"Qp7-Aj-nfK.configuration.title" = "Function Scene";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Qp7-Aj-nfK"; */
+"Qp7-Aj-nfK.normalTitle" = "Button";
+
+/* Class = "UITabBarItem"; title = "Canada"; ObjectID = "cuS-S2-hLZ"; */
+"cuS-S2-hLZ.title" = "Canada";
+
+/* Class = "UILabel"; text = "CANADIAN CITIES"; ObjectID = "eyG-xN-29v"; */
+"eyG-xN-29v.text" = "CANADIAN CITIES";
+
+/* Class = "UITabBarItem"; title = "Item 2"; ObjectID = "yx9-VZ-WR2"; */
+"yx9-VZ-WR2.title" = "Item 2";
+
+/* Class = "UILabel"; text = "City Name Not Found"; ObjectID = "zZe-Wf-UHq"; */
+"zZe-Wf-UHq.text" = "City Name Not Found";
